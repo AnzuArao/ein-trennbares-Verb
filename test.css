@@ -1,0 +1,32 @@
+body {
+  font-family: serif;
+  text-align: center;
+}
+
+.quizzes-container {
+  width: 400px;
+  margin: 50px auto;
+}
+
+.quiz-container {
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+}
+
+.btn {
+  margin-top: 20px;
+  font-family: serif;
+  background-color: white;
+}
+
+#score-container {
+  border: 1px solid black;
+  height: 50px;
+}
+
+.btn-score {
+  display: block;
+  margin: 20px auto;
+  font-family: serif;
+  background-color: white;
+}

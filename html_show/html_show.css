@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+main {
+    padding: auto;
+}
+
+.bold_blue {
+    color: #1426ab;
+    font-weight: bold;
+}
+
+.bold_red {
+    color: #dd0000;
+    font-weight: bold;
+}
+
+.flex-item-show {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.div-audio {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+audio {
+    width: 40vw;
+    height: 3vw;
+}
+
+
+.list-audio {
+    list-style: none;
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: bold;
+    line-height: 250%;
+}
+
+h3 {
+    padding-top: 2vw;
+    text-align: center;
+    font-size: 2vw;
+    color: #353232;
+}
+
+p.aussprache {
+    margin: 0 5vw;
+    padding: 1vw;
+    font-size: 1vw;
+}
+
+.zuerst {
+    text-align: center;
+    font-size: 1.5vw;
+}
