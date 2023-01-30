@@ -28,8 +28,8 @@ main {
 }
 
 audio {
-    width: 40vw;
-    height: 3vw;
+    width: 50vw;
+    height: 2vw;
 }
 
 
@@ -48,9 +48,9 @@ h3 {
     color: #353232;
 }
 
-p.aussprache {
-    margin: 0 5vw;
-    padding: 1vw;
+li.aussprache {
+    margin: 0 auto;
+    /* padding: 1vw; */
     font-size: 1vw;
 }
 
